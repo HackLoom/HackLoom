@@ -1,3 +1,4 @@
+![My GitHub Banner](banner.jpeg)
 # Hi, I'm Sri Pujitha! 👋
 
 ### Aspiring Software Developer | MCA Student
